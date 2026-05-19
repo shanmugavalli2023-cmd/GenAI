@@ -17,3 +17,5 @@ plotly
 pillow
 pypdf
 torch
+streamlit
+plotly
