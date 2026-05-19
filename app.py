@@ -1,7 +1,7 @@
 import sqlite3
 from dataclasses import dataclass
 from typing import Dict, List
-pip install plotly
+#pip install plotly
 import pandas as pd
 import plotly.express as px
 import streamlit as st
